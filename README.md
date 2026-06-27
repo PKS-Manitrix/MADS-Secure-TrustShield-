@@ -2,9 +2,6 @@
 
 ### A Privacy-First Adaptive Identity Trust Framework for Digital Banking
 
-
-\
-
 ---
 
 # Overview
