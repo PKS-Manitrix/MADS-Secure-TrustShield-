@@ -351,24 +351,24 @@ Our framework follows privacy-first principles:
 * Trigger additional verification only when risk is elevated.
 
 ---
+
 <h2 align="center">📸 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="assets/dashboard.png" width="900">
+  <img src="assets/dashboard.png" width="100%">
 </p>
 
 <h2 align="center">🛡️ Security Dashboard</h2>
 
 <p align="center">
-  <img src="assets/admin-dashboard.png" width="900">
+  <img src="assets/admin-dashboard.png" width="100%">
 </p>
 
 <h2 align="center">⚡ Risk Engine & Live Scenarios</h2>
 
 <p align="center">
-  <img src="assets/risk-engine.png" width="900">
+  <img src="assets/risk-engine.png" width="100%">
 </p>
-
 
 # Technology Stack
 
