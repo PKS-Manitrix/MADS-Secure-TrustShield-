@@ -37,7 +37,7 @@ Digital banking faces several major security challenges:
 
 Current systems often use static authentication mechanisms that either:
 
-1. Provide insufficient security, or
+1. Provide insufficient security or
 2. Create excessive friction by requesting OTP verification for every login.
 
 A smarter and more adaptive approach is required.
