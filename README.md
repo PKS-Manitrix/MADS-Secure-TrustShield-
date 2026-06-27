@@ -1,15 +1,29 @@
 # MADS-Secure-TrustShield
-A Privacy-First Adaptive Identity Trust Framework for Digital Banking
+
+### A Privacy-First Adaptive Identity Trust Framework for Digital Banking
+
+
+\
+
+---
 
 # Overview
+
 MADS-Secure-TrustShield is a privacy-first, adaptive identity trust framework designed to enhance security across digital banking channels.
+
 Traditional banking systems primarily rely on passwords and frequent OTP verification. However, passwords can be stolen, phishing attacks are increasing, and excessive OTP requests create a poor user experience.
+
 Our solution introduces an intelligent **Identity Trust Engine** that continuously evaluates the trustworthiness of users and dynamically adapts authentication based on risk.
 
 Instead of asking:
+
 > "Did the user enter the correct password?"
+
 our system asks:
+
 > "How confident are we that this person is genuinely the account owner?"
+
+---
 
 # Problem Statement
 
@@ -26,11 +40,12 @@ Digital banking faces several major security challenges:
 
 Current systems often use static authentication mechanisms that either:
 
-1. Provide insufficient security or
+1. Provide insufficient security, or
 2. Create excessive friction by requesting OTP verification for every login.
 
 A smarter and more adaptive approach is required.
 
+---
 
 # Our Solution
 
@@ -49,7 +64,7 @@ Based on the calculated risk, the system decides whether to:
 
 # Key Features
 
-### Adaptive Risk-Based Authentication
+## Adaptive Risk-Based Authentication
 
 Authentication requirements change depending on the calculated risk.
 
@@ -155,8 +170,6 @@ The system supports three user roles:
 
 Every role can access only the resources they are authorized to use.
 
----
-
 # AI-Assisted Risk Analysis
 
 In addition to predefined risk rules, MADS-Secure-TrustShield incorporates Artificial Intelligence to improve fraud detection and continuously learn from user behavior.
@@ -186,7 +199,7 @@ Although the password is correct, the AI model identifies this as abnormal behav
 
 The AI component therefore acts as an intelligent assistant to the risk engine, enabling more accurate fraud detection and adaptive authentication while reducing unnecessary verification for genuine users.
 
---- 
+---
 
 # System Architecture
 
